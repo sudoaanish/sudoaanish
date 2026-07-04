@@ -69,7 +69,7 @@ I also write fiction, build creative technology experiments, and work on project
       <h3><a href="https://github.com/sudoaanish/pakflix">PakFlix</a></h3>
       <p>
         An Android TV and Fire TV media client for Jellyfin-powered home libraries.
-        PakFlix focuses on a polished 10-foot interface, Fire TV usability, and South Asian media organization.
+        PakFlix focuses on a polished 10-foot interface, Fire TV usability.
       </p>
       <p>
         <b>Focus:</b> Android TV, Kotlin, Media3, Jellyfin, Fire TV
