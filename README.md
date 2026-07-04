@@ -50,11 +50,11 @@ I also write fiction, build creative technology experiments, and work on project
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/sudoaanish/StrataFuse">StrataFuse</a></h3>
       <p>
         A desktop cloud-mounting client built with Tauri, React, TypeScript, and Rust.
-        StrataFuse wraps rclone into a more polished desktop experience for mounting cloud storage as local drives.
+        StrataFuse wraps rclone into a polished desktop experience for mounting cloud storage as local drives.
       </p>
       <p>
         <b>Focus:</b> desktop infrastructure, cloud storage, rclone, media workflows
@@ -65,11 +65,11 @@ I also write fiction, build creative technology experiments, and work on project
         </a>
       </p>
     </td>
-    <td width="50%">
-      <h3><a href="https://github.com/sudoaanish/pakflix">PakFlix</a></h3>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/sudoaanish/pakflix">PAKFLIX</a></h3>
       <p>
         An Android TV and Fire TV media client for Jellyfin-powered home libraries.
-        PakFlix focuses on a polished 10-foot interface, Fire TV usability.
+        PAKFLIX focuses on a polished 10-foot interface, Fire TV usability, and media-library presentation.
       </p>
       <p>
         <b>Focus:</b> Android TV, Kotlin, Media3, Jellyfin, Fire TV
@@ -82,7 +82,7 @@ I also write fiction, build creative technology experiments, and work on project
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/sudoaanish/loom">Loom</a></h3>
       <p>
         An experimental local-first peer-to-peer messaging client exploring serverless communication,
@@ -97,7 +97,7 @@ I also write fiction, build creative technology experiments, and work on project
         </a>
       </p>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/sudoaanish/Interpose">Interpose</a></h3>
       <p>
         A multi-agent pursuit-evasion simulation framework for testing coordinated intercept strategies
@@ -114,7 +114,7 @@ I also write fiction, build creative technology experiments, and work on project
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/sudoaanish/black-hole-simulator">Geodesica</a></h3>
       <p>
         A real-time black hole raytracing and relativistic visualization project built with TypeScript,
@@ -129,7 +129,7 @@ I also write fiction, build creative technology experiments, and work on project
         </a>
       </p>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/sudoaanish/twin">twin</a></h3>
       <p>
         A cross-platform CLI utility for cloning terminal sessions with working directory and shell context.
@@ -167,7 +167,7 @@ I work heavily with home-server media workflows, Jellyfin, cloud-mounted librari
 
 Relevant projects:
 
-- [PakFlix](https://github.com/sudoaanish/pakflix)
+- [PAKFLIX](https://github.com/sudoaanish/pakflix)
 - [StrataFuse](https://github.com/sudoaanish/StrataFuse)
 
 ### Simulation and Visual Computing
@@ -246,7 +246,7 @@ Core areas:
 
 ### Media and 3D Video Workflows
 
-I work with video processing, home media libraries, Jellyfin organization, cloud media storage, and 2D-to-3D/VR conversion workflows. This has directly influenced projects like StrataFuse and PakFlix.
+I work with video processing, home media libraries, Jellyfin organization, cloud media storage, and 2D-to-3D/VR conversion workflows. This has directly influenced projects like StrataFuse and PAKFLIX.
 
 ### Creative Technology
 
