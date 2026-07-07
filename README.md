@@ -36,6 +36,7 @@ I also write fiction, build creative technology experiments, and work on project
 ## Current Focus
 
 - Local-first desktop software
+- Local network utilities and device-to-device workflows
 - Media and home-server tooling
 - Android TV and Fire TV applications
 - Tauri, Rust, React, and TypeScript applications
@@ -66,6 +67,23 @@ I also write fiction, build creative technology experiments, and work on project
       </p>
     </td>
     <td width="50%" valign="top">
+      <h3><a href="https://github.com/sudoaanish/LanDock">LanDock</a></h3>
+      <p>
+        A Windows desktop hub and iPhone web client for local PC control, clipboard sync,
+        QR-based pairing, and local file sharing over Wi-Fi or Windows Mobile Hotspot.
+      </p>
+      <p>
+        <b>Focus:</b> Tauri, Rust, Node.js, local networking, iPhone PWA, Windows utilities
+      </p>
+      <p>
+        <a href="https://github.com/sudoaanish/LanDock">
+          <img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white" alt="View Repo" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/sudoaanish/pakflix">PAKFLIX</a></h3>
       <p>
         An Android TV and Fire TV media client for Jellyfin-powered home libraries.
@@ -80,8 +98,6 @@ I also write fiction, build creative technology experiments, and work on project
         </a>
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/sudoaanish/loom">Loom</a></h3>
       <p>
@@ -97,6 +113,8 @@ I also write fiction, build creative technology experiments, and work on project
         </a>
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/sudoaanish/Interpose">Interpose</a></h3>
       <p>
@@ -112,8 +130,6 @@ I also write fiction, build creative technology experiments, and work on project
         </a>
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/sudoaanish/black-hole-simulator">Geodesica</a></h3>
       <p>
@@ -129,6 +145,8 @@ I also write fiction, build creative technology experiments, and work on project
         </a>
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/sudoaanish/twin">twin</a></h3>
       <p>
@@ -144,6 +162,7 @@ I also write fiction, build creative technology experiments, and work on project
         </a>
       </p>
     </td>
+    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
@@ -158,6 +177,7 @@ I am interested in software that gives users more control over their own files, 
 Relevant projects:
 
 - [StrataFuse](https://github.com/sudoaanish/StrataFuse)
+- [LanDock](https://github.com/sudoaanish/LanDock)
 - [Loom](https://github.com/sudoaanish/loom)
 - [twin](https://github.com/sudoaanish/twin)
 
