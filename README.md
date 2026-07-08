@@ -162,7 +162,21 @@ I also write fiction, build creative technology experiments, and work on project
         </a>
       </p>
     </td>
-    <td width="50%" valign="top"></td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/sudoaanish/releasepilot">ReleasePilot</a></h3>
+      <p>
+        A Rust CLI for local release-readiness checks, safe config generation,
+        Git/version validation, and GitHub release preparation workflows.
+      </p>
+      <p>
+        <b>Focus:</b> Rust, CLI tooling, release automation, GitHub workflows, developer tools
+      </p>
+      <p>
+        <a href="https://github.com/sudoaanish/releasepilot">
+          <img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white" alt="View Repo" />
+        </a>
+      </p>
+    </td>
   </tr>
 </table>
 
@@ -206,6 +220,7 @@ I build small utilities that remove friction from my own workflow, especially ar
 Relevant projects:
 
 - [twin](https://github.com/sudoaanish/twin)
+- [ReleasePilot](https://github.com/sudoaanish/releasepilot)
 
 ---
 
