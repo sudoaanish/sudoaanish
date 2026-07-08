@@ -256,6 +256,7 @@ Relevant projects:
   <img src="https://img.shields.io/badge/Android%20TV-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android TV" />
   <img src="https://img.shields.io/badge/Media3-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Media3" />
   <img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white" alt="WebGL" />
+  <img src="https://img.shields.io/badge/MapLibre%20GL-396CB2?style=flat-square&logo=maplibre&logoColor=white" alt="MapLibre GL" />
   <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
 </p>
 
