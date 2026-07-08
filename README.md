@@ -41,6 +41,7 @@ I also write fiction, build creative technology experiments, and work on project
 - Android TV and Fire TV applications
 - Tauri, Rust, React, and TypeScript applications
 - Simulation and visual computing
+- Geospatial and generative visual tools
 - Developer workflow tools
 - Creative and technical systems
 - AI workflows
@@ -213,6 +214,14 @@ Relevant projects:
 - [Interpose](https://github.com/sudoaanish/Interpose)
 - [Geodesica](https://github.com/sudoaanish/black-hole-simulator)
 
+### Creative Web Tools and Generative Interfaces
+
+I also build smaller browser-based tools that turn real data, visual systems, or personal workflow needs into usable creative interfaces.
+
+Relevant projects:
+
+- [City Sketch](https://github.com/sudoaanish/city-sketch)
+
 ### Developer Tools
 
 I build small utilities that remove friction from my own workflow, especially around terminals, local development, project setup, and automation.
@@ -279,6 +288,14 @@ Core areas:
 - Admin ticket management
 - Game state and scoring logic
 
+### City Sketch
+
+I built [City Sketch](https://github.com/sudoaanish/city-sketch), a browser-based city roadmap art generator that turns real road networks and geographic features into minimal roadmap artwork.
+
+It uses MapLibre GL, OpenFreeMap vector tiles, React, Vite, and SVG-first export to produce clean map-art compositions directly in the browser. The project started from a personal need for road-line sketches, then became a small public creative tool with editable labels, style presets, layer controls, SVG export, and high-resolution PNG export.
+
+Live demo: [sudoaanish.github.io/city-sketch](https://sudoaanish.github.io/city-sketch/)
+
 ### Media and 3D Video Workflows
 
 I work with video processing, home media libraries, Jellyfin organization, cloud media storage, and 2D-to-3D/VR conversion workflows. This has directly influenced projects like StrataFuse and PAKFLIX.
@@ -312,6 +329,6 @@ I usually gravitate toward projects with one or more of these traits:
 
 <div align="center">
 
-### Building tools for local-first workflows, media systems, developer automation, and simulations.
+### Building tools for local-first workflows, media systems, developer automation, creative interfaces, and simulations.
 
 </div>
