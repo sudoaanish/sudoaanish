@@ -312,6 +312,6 @@ I usually gravitate toward projects with one or more of these traits:
 
 <div align="center">
 
-### Building tools for local-first workflows, media systems, and simulations.
+### Building tools for local-first workflows, media systems, developer automation, and simulations.
 
 </div>
