@@ -170,6 +170,7 @@ I am especially interested in:
       <p>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
         <img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white" alt="WebGL" />
+  <img src="https://img.shields.io/badge/Web%20Audio%20API-F5A313?style=flat-square&logo=googlechrome&logoColor=11102F" alt="Web Audio API" />
         <img src="https://img.shields.io/badge/GLSL-5586A4?style=flat-square&logo=opengl&logoColor=white" alt="GLSL" />
         <img src="https://img.shields.io/badge/Visual%20Computing-111111?style=flat-square" alt="Visual Computing" />
       </p>
@@ -194,6 +195,7 @@ I am especially interested in:
 | [ReleasePilot](https://github.com/sudoaanish/releasepilot) | Rust CLI for release-readiness checks, Git validation, safe configuration generation, and GitHub release preparation.  | Rust, automation, GitHub Actions       |
 | [City Sketch](https://github.com/sudoaanish/city-sketch)   | Browser-based city-roadmap art generator built from real geographic and road-network data.                             | React, MapLibre, SVG, geospatial tools |
 | [COSMOS](https://github.com/sudoaanish/COSMOS) | Interactive 3D solar-system visualizer with corrected Keplerian orbital propagation, date navigation, and physical distance measurements. | Three.js, WebGL, orbital mechanics |
+| [QWERTone](https://github.com/sudoaanish/QWERTone) | Browser-based synthesizer that turns physical-keyboard typing into melody and rhythm through local Web Audio synthesis. | TypeScript, Web Audio API, Vite |
 
 <p>
   <a href="https://sudoaanish.github.io/city-sketch/">
@@ -201,6 +203,9 @@ I am especially interested in:
   </a>
   <a href="https://sudoaanish.github.io/COSMOS/">
     <img src="https://img.shields.io/badge/Launch%20COSMOS-00D4FF?style=flat-square&logo=github-pages&logoColor=white" alt="Launch COSMOS" />
+  </a>
+  <a href="https://sudoaanish.github.io/QWERTone/">
+    <img src="https://img.shields.io/badge/Play%20QWERTone-F5A313?style=flat-square&logo=github-pages&logoColor=11102F" alt="Play QWERTone" />
   </a>
 </p>
 
@@ -243,10 +248,11 @@ Utilities designed to remove friction from development, terminal, and release wo
 
 ### Creative Web Tools
 
-Browser-based tools that turn geographic, technical, or personal data into interactive visual experiences.
+Browser-based tools that turn geographic, technical, musical, or personal input into interactive experiences.
 
 * [City Sketch](https://github.com/sudoaanish/city-sketch)
 * [Nascent](https://github.com/sudoaanish/Nascent)
+* [QWERTone](https://github.com/sudoaanish/QWERTone)
 
 ---
 
@@ -287,7 +293,7 @@ Nascent instead exposes the process. Users can create a handwriting dataset, sta
       <h3>Web Applications</h3>
       <p>
         React, TypeScript, JavaScript, Vite, progressive web applications,
-        responsive interfaces, Canvas, and browser-based tooling.
+        responsive interfaces, Canvas, Web Audio API, and browser-based tooling.
       </p>
     </td>
     <td width="33%" valign="top">
@@ -344,6 +350,7 @@ Nascent instead exposes the process. Users can create a handwriting dataset, sta
   <img src="https://img.shields.io/badge/Android%20TV-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android TV" />
   <img src="https://img.shields.io/badge/TensorFlow.js-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow.js" />
   <img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white" alt="WebGL" />
+  <img src="https://img.shields.io/badge/Web%20Audio%20API-F5A313?style=flat-square&logo=googlechrome&logoColor=11102F" alt="Web Audio API" />
   <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
 </p>
 
