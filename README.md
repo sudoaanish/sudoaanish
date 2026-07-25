@@ -4,7 +4,7 @@
 
 ### Software Engineer · Product Builder · Creative Technologist
 
-I turn real workflow problems into usable software; from local-first desktop applications and personal media systems to interactive simulations, visual computing tools, and developer utilities.
+I turn real workflow problems into usable software-from local-first desktop applications and personal media systems to interactive simulations, visual computing tools, and developer utilities.
 
 <br />
 
@@ -193,10 +193,14 @@ I am especially interested in:
 | [twin](https://github.com/sudoaanish/twin)                 | Cross-platform CLI for cloning terminal sessions with their working directory and shell context.                       | Go, CLI tooling, shell workflows       |
 | [ReleasePilot](https://github.com/sudoaanish/releasepilot) | Rust CLI for release-readiness checks, Git validation, safe configuration generation, and GitHub release preparation.  | Rust, automation, GitHub Actions       |
 | [City Sketch](https://github.com/sudoaanish/city-sketch)   | Browser-based city-roadmap art generator built from real geographic and road-network data.                             | React, MapLibre, SVG, geospatial tools |
+| [COSMOS](https://github.com/sudoaanish/COSMOS) | Interactive 3D solar-system visualizer with corrected Keplerian orbital propagation, date navigation, and physical distance measurements. | Three.js, WebGL, orbital mechanics |
 
 <p>
   <a href="https://sudoaanish.github.io/city-sketch/">
     <img src="https://img.shields.io/badge/Try%20City%20Sketch-2EA44F?style=flat-square&logo=github-pages&logoColor=white" alt="Try City Sketch" />
+  </a>
+  <a href="https://sudoaanish.github.io/COSMOS/">
+    <img src="https://img.shields.io/badge/Launch%20COSMOS-00D4FF?style=flat-square&logo=github-pages&logoColor=white" alt="Launch COSMOS" />
   </a>
 </p>
 
@@ -227,6 +231,7 @@ Interactive systems that make mathematical, physical, or computational behavior 
 
 * [Nascent](https://github.com/sudoaanish/Nascent)
 * [Geodesica](https://github.com/sudoaanish/black-hole-simulator)
+* [COSMOS](https://github.com/sudoaanish/COSMOS)
 * [Interpose](https://github.com/sudoaanish/Interpose)
 
 ### Developer and Workflow Tools
