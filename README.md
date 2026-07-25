@@ -4,7 +4,7 @@
 
 ### Software Engineer · Product Builder · Creative Technologist
 
-I turn real workflow problems into usable software-from local-first desktop applications and personal media systems to interactive simulations, visual computing tools, and developer utilities.
+I turn real workflow problems into usable software: from local-first desktop applications and personal media systems to interactive simulations, visual computing tools, and developer utilities.
 
 <br />
 
@@ -170,7 +170,6 @@ I am especially interested in:
       <p>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
         <img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white" alt="WebGL" />
-  <img src="https://img.shields.io/badge/Web%20Audio%20API-F5A313?style=flat-square&logo=googlechrome&logoColor=11102F" alt="Web Audio API" />
         <img src="https://img.shields.io/badge/GLSL-5586A4?style=flat-square&logo=opengl&logoColor=white" alt="GLSL" />
         <img src="https://img.shields.io/badge/Visual%20Computing-111111?style=flat-square" alt="Visual Computing" />
       </p>
