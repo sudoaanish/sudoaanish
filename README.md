@@ -2,179 +2,180 @@
 
 # Aanish Farrukh
 
-### Software Engineer · Builder · Writer · Media Systems Tinkerer
+### Software Engineer · Product Builder · Creative Technologist
 
-I build local-first desktop tools, media systems, simulations, and developer utilities.  
-My work usually starts from a real workflow problem, then turns into a usable product, prototype, or research-style system.
+I turn real workflow problems into usable software; from local-first desktop applications and personal media systems to interactive simulations, visual computing tools, and developer utilities.
 
 <br />
 
-<a href="https://aanishfarrukh.com">
-  <img src="https://img.shields.io/badge/Website-aanishfarrukh.com-111111?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+<a href="http://aanishfarrukh.com">
+  <img src="https://img.shields.io/badge/Portfolio-aanishfarrukh.com-111111?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio" />
 </a>
 <a href="https://github.com/sudoaanish">
   <img src="https://img.shields.io/badge/GitHub-sudoaanish-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-<a href="https://www.linkedin.com/in/muhammad-aanish-ayaz-farrukh-16725a200/">
+<a href="https://www.linkedin.com/in/aanishfarrukh/">
   <img src="https://img.shields.io/badge/LinkedIn-Aanish%20Farrukh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://www.youtube.com/@DepthSpatial">
+  <img src="https://img.shields.io/badge/YouTube-Depth%20Spatial-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Depth Spatial on YouTube" />
+</a>
+<a href="https://share.google/mb33F1SFNuFLQPUbO">
+  <img src="https://img.shields.io/badge/Creative%20Work-Novels%20%26%20More-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Novels and Creative Work" />
 </a>
 
 </div>
 
 ---
 
-## About
+## About Me
 
-I am a software engineer with a focus on practical development, local-first systems, media infrastructure, simulation, and applied AI tooling.
+I am a software engineer focused on building practical, user-facing systems across desktop, web, television, and local-network environments.
 
-I like building things that sit close to real usage: desktop apps, TV apps, command-line tools, automation systems, home-server workflows, visual simulations, and experimental communication software. My projects often combine product thinking with systems engineering, especially when the problem involves local files, cloud storage, media libraries, cross-platform workflows, or user-facing technical tools.
+My projects often begin with a problem I have encountered personally: mounting cloud storage without relying on command-line workflows, moving files and text between devices, organizing personal media libraries, building a better reading environment, or making complex technical systems easier to understand through visualization.
 
-I also write fiction, build creative technology experiments, and work on projects that connect software, storytelling, and media.
+I am especially interested in:
 
----
-
-## Current Focus
-
-- Local-first desktop software
-- Local network utilities and device-to-device workflows
-- Media and home-server tooling
-- Android TV and Fire TV applications
-- Tauri, Rust, React, and TypeScript applications
-- Simulation and visual computing
-- Geospatial and generative visual tools
-- Developer workflow tools
-- Creative and technical systems
-- AI workflows
+* Local-first software and personal computing
+* Desktop applications and native system integration
+* Media, reading, and home-server infrastructure
+* Interactive simulations and visual computing
+* Applied machine learning and technical visualization
+* Developer tools and release automation
+* Software that connects engineering, storytelling, and media
 
 ---
 
-## Featured Projects
+## Featured Work
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/sudoaanish/StrataFuse">StrataFuse</a></h3>
+      <h3>
+        <a href="https://github.com/sudoaanish/StrataFuse">StrataFuse</a>
+      </h3>
       <p>
-        A desktop cloud-mounting client built with Tauri, React, TypeScript, and Rust.
-        StrataFuse wraps rclone into a polished desktop experience for mounting cloud storage as local drives.
+        A desktop cloud-mounting client that turns rclone into an approachable local-drive experience.
+        StrataFuse manages cloud profiles, mounted drives, configuration, and storage workflows through a polished desktop interface.
       </p>
       <p>
-        <b>Focus:</b> desktop infrastructure, cloud storage, rclone, media workflows
+        <img src="https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white" alt="Tauri" />
+        <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/rclone-3F79AD?style=flat-square&logo=icloud&logoColor=white" alt="rclone" />
       </p>
       <p>
         <a href="https://github.com/sudoaanish/StrataFuse">
-          <img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white" alt="View Repo" />
+          <img src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white" alt="View Repository" />
         </a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/sudoaanish/LanDock">LanDock</a></h3>
+      <h3>
+        <a href="https://github.com/sudoaanish/LanDock">LanDock</a>
+      </h3>
       <p>
-        A Windows desktop hub and iPhone web client for local PC control, clipboard sync,
-        QR-based pairing, and local file sharing over Wi-Fi or Windows Mobile Hotspot.
+        A Windows desktop hub and iPhone web client for local file sharing, clipboard synchronization,
+        live keyboard input, device pairing, and PC control over Wi-Fi.
       </p>
       <p>
-        <b>Focus:</b> Tauri, Rust, Node.js, local networking, iPhone PWA, Windows utilities
+        <img src="https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white" alt="Tauri" />
+        <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+        <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" alt="PWA" />
       </p>
       <p>
         <a href="https://github.com/sudoaanish/LanDock">
-          <img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white" alt="View Repo" />
+          <img src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white" alt="View Repository" />
         </a>
       </p>
     </td>
   </tr>
+
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/sudoaanish/pakflix">PAKFLIX</a></h3>
+      <h3>
+        <a href="https://github.com/sudoaanish/sTori">sTori</a>
+      </h3>
       <p>
-        An Android TV and Fire TV media client for Jellyfin-powered home libraries.
-        PAKFLIX focuses on a polished 10-foot interface, Fire TV usability, and media-library presentation.
+        A local-first personal library and e-reader for managing, discovering, and reading digital books.
+        sTori combines a Tauri desktop application with mobile-friendly reading and library workflows.
       </p>
       <p>
-        <b>Focus:</b> Android TV, Kotlin, Media3, Jellyfin, Fire TV
+        <img src="https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white" alt="Tauri" />
+        <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/EPUB-7B5EA7?style=flat-square&logo=bookstack&logoColor=white" alt="EPUB" />
+      </p>
+      <p>
+        <a href="https://github.com/sudoaanish/sTori">
+          <img src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white" alt="View Repository" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>
+        <a href="https://github.com/sudoaanish/pakflix">PAKFLIX</a>
+      </h3>
+      <p>
+        An Android TV and Fire TV media client for Jellyfin-powered home libraries.
+        PAKFLIX focuses on a polished ten-foot interface, remote-first navigation, playback reliability, and cinematic media presentation.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
+        <img src="https://img.shields.io/badge/Android%20TV-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android TV" />
+        <img src="https://img.shields.io/badge/Media3-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Media3" />
+        <img src="https://img.shields.io/badge/Jellyfin-00A4DC?style=flat-square&logo=jellyfin&logoColor=white" alt="Jellyfin" />
       </p>
       <p>
         <a href="https://github.com/sudoaanish/pakflix">
-          <img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white" alt="View Repo" />
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/sudoaanish/loom">Loom</a></h3>
-      <p>
-        An experimental local-first peer-to-peer messaging client exploring serverless communication,
-        local network discovery, cryptographic identity, and desktop networking.
-      </p>
-      <p>
-        <b>Focus:</b> Rust, Tauri, peer-to-peer networking, encryption, SQLite
-      </p>
-      <p>
-        <a href="https://github.com/sudoaanish/loom">
-          <img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white" alt="View Repo" />
+          <img src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white" alt="View Repository" />
         </a>
       </p>
     </td>
   </tr>
+
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/sudoaanish/Interpose">Interpose</a></h3>
+      <h3>
+        <a href="https://github.com/sudoaanish/Nascent">Nascent</a>
+      </h3>
       <p>
-        A multi-agent pursuit-evasion simulation framework for testing coordinated intercept strategies
-        on procedural road networks.
+        An interactive in-browser neural-network visualizer and live training engine.
+        Users can build handwriting datasets, train multilayer perceptrons, inspect receptive fields, and watch weights, activations, gradients, loss, and accuracy change in real time.
       </p>
       <p>
-        <b>Focus:</b> simulation, multi-agent systems, pathfinding, benchmarking
+        <img src="https://img.shields.io/badge/TensorFlow.js-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow.js" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/Canvas%202D-E34F26?style=flat-square&logo=html5&logoColor=white" alt="Canvas 2D" />
+        <img src="https://img.shields.io/badge/Machine%20Learning-5C3EE8?style=flat-square" alt="Machine Learning" />
       </p>
       <p>
-        <a href="https://github.com/sudoaanish/Interpose">
-          <img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white" alt="View Repo" />
+        <a href="https://sudoaanish.github.io/Nascent/">
+          <img src="https://img.shields.io/badge/Launch%20Demo-2EA44F?style=flat-square&logo=github-pages&logoColor=white" alt="Launch Demo" />
+        </a>
+        <a href="https://github.com/sudoaanish/Nascent">
+          <img src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white" alt="View Repository" />
         </a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/sudoaanish/black-hole-simulator">Geodesica</a></h3>
+      <h3>
+        <a href="https://github.com/sudoaanish/black-hole-simulator">Geodesica</a>
+      </h3>
       <p>
-        A real-time black hole raytracing and relativistic visualization project built with TypeScript,
-        WebGL, and GLSL.
+        A real-time black-hole raytracing and relativistic visualization project.
+        Geodesica uses GPU shaders to visualize gravitational lensing, accretion structures, and the behavior of light around a black hole.
       </p>
       <p>
-        <b>Focus:</b> visual computing, shaders, WebGL, physics visualization
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white" alt="WebGL" />
+        <img src="https://img.shields.io/badge/GLSL-5586A4?style=flat-square&logo=opengl&logoColor=white" alt="GLSL" />
+        <img src="https://img.shields.io/badge/Visual%20Computing-111111?style=flat-square" alt="Visual Computing" />
       </p>
       <p>
         <a href="https://github.com/sudoaanish/black-hole-simulator">
-          <img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white" alt="View Repo" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/sudoaanish/twin">twin</a></h3>
-      <p>
-        A cross-platform CLI utility for cloning terminal sessions with working directory and shell context.
-        Built for faster parallel workflows across projects and monorepos.
-      </p>
-      <p>
-        <b>Focus:</b> Go, CLI tooling, shell workflows, cross-platform utilities
-      </p>
-      <p>
-        <a href="https://github.com/sudoaanish/twin">
-          <img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white" alt="View Repo" />
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/sudoaanish/releasepilot">ReleasePilot</a></h3>
-      <p>
-        A Rust CLI for local release-readiness checks, safe config generation,
-        Git/version validation, and GitHub release preparation workflows.
-      </p>
-      <p>
-        <b>Focus:</b> Rust, CLI tooling, release automation, GitHub workflows, developer tools
-      </p>
-      <p>
-        <a href="https://github.com/sudoaanish/releasepilot">
-          <img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white" alt="View Repo" />
+          <img src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white" alt="View Repository" />
         </a>
       </p>
     </td>
@@ -183,59 +184,143 @@ I also write fiction, build creative technology experiments, and work on project
 
 ---
 
-## Project Areas
+## More Projects
 
-### Desktop and Local-First Systems
+| Project                                                    | Description                                                                                                            | Areas                                  |
+| ---------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | -------------------------------------- |
+| [Interpose](https://github.com/sudoaanish/Interpose)       | Multi-agent pursuit-evasion simulation framework for coordinated interception experiments on procedural road networks. | Simulation, pathfinding, benchmarking  |
+| [Loom](https://github.com/sudoaanish/loom)                 | Experimental local-first peer-to-peer messaging client exploring serverless communication and cryptographic identity.  | Rust, Tauri, P2P, encryption           |
+| [twin](https://github.com/sudoaanish/twin)                 | Cross-platform CLI for cloning terminal sessions with their working directory and shell context.                       | Go, CLI tooling, shell workflows       |
+| [ReleasePilot](https://github.com/sudoaanish/releasepilot) | Rust CLI for release-readiness checks, Git validation, safe configuration generation, and GitHub release preparation.  | Rust, automation, GitHub Actions       |
+| [City Sketch](https://github.com/sudoaanish/city-sketch)   | Browser-based city-roadmap art generator built from real geographic and road-network data.                             | React, MapLibre, SVG, geospatial tools |
 
-I am interested in software that gives users more control over their own files, workflows, and devices. This includes cross-platform desktop apps, local-first storage, encrypted local communication, offline-capable tools, and infrastructure that does not depend on heavy cloud lock-in.
-
-Relevant projects:
-
-- [StrataFuse](https://github.com/sudoaanish/StrataFuse)
-- [LanDock](https://github.com/sudoaanish/LanDock)
-- [Loom](https://github.com/sudoaanish/loom)
-- [twin](https://github.com/sudoaanish/twin)
-
-### Media Systems
-
-I work heavily with home-server media workflows, Jellyfin, cloud-mounted libraries, Android TV, Fire TV, video processing, and personal media infrastructure.
-
-Relevant projects:
-
-- [PAKFLIX](https://github.com/sudoaanish/pakflix)
-- [StrataFuse](https://github.com/sudoaanish/StrataFuse)
-
-### Simulation and Visual Computing
-
-I like building systems that model, visualize, or experiment with complex behavior, from multi-agent interception to black hole raytracing.
-
-Relevant projects:
-
-- [Interpose](https://github.com/sudoaanish/Interpose)
-- [Geodesica](https://github.com/sudoaanish/black-hole-simulator)
-
-### Creative Web Tools and Generative Interfaces
-
-I also build smaller browser-based tools that turn real data, visual systems, or personal workflow needs into usable creative interfaces.
-
-Relevant projects:
-
-- [City Sketch](https://github.com/sudoaanish/city-sketch)
-
-### Developer Tools
-
-I build small utilities that remove friction from my own workflow, especially around terminals, local development, project setup, and automation.
-
-Relevant projects:
-
-- [twin](https://github.com/sudoaanish/twin)
-- [ReleasePilot](https://github.com/sudoaanish/releasepilot)
+<p>
+  <a href="https://sudoaanish.github.io/city-sketch/">
+    <img src="https://img.shields.io/badge/Try%20City%20Sketch-2EA44F?style=flat-square&logo=github-pages&logoColor=white" alt="Try City Sketch" />
+  </a>
+</p>
 
 ---
 
-## Tech Stack
+## Project Collections
 
-### Languages
+### Local-First Applications and Device Systems
+
+Software that gives users greater control over their own files, devices, networks, and workflows.
+
+* [StrataFuse](https://github.com/sudoaanish/StrataFuse)
+* [LanDock](https://github.com/sudoaanish/LanDock)
+* [sTori](https://github.com/sudoaanish/sTori)
+* [Loom](https://github.com/sudoaanish/loom)
+
+### Media, Reading, and Personal Libraries
+
+Tools for managing, navigating, presenting, and consuming personally owned media.
+
+* [PAKFLIX](https://github.com/sudoaanish/pakflix)
+* [sTori](https://github.com/sudoaanish/sTori)
+* [StrataFuse](https://github.com/sudoaanish/StrataFuse)
+
+### Machine Learning, Simulation, and Visual Computing
+
+Interactive systems that make mathematical, physical, or computational behavior visible.
+
+* [Nascent](https://github.com/sudoaanish/Nascent)
+* [Geodesica](https://github.com/sudoaanish/black-hole-simulator)
+* [Interpose](https://github.com/sudoaanish/Interpose)
+
+### Developer and Workflow Tools
+
+Utilities designed to remove friction from development, terminal, and release workflows.
+
+* [twin](https://github.com/sudoaanish/twin)
+* [ReleasePilot](https://github.com/sudoaanish/releasepilot)
+
+### Creative Web Tools
+
+Browser-based tools that turn geographic, technical, or personal data into interactive visual experiences.
+
+* [City Sketch](https://github.com/sudoaanish/city-sketch)
+* [Nascent](https://github.com/sudoaanish/Nascent)
+
+---
+
+## Selected Engineering Stories
+
+### StrataFuse — Turning infrastructure into a desktop product
+
+Cloud mounting through rclone is powerful, but its configuration, process management, and operating-system integration can be difficult to approach.
+
+StrataFuse wraps that infrastructure in a desktop experience that manages cloud profiles, mounted drives, local configuration, process state, and release workflows. The project combines Rust systems work with frontend product design and native desktop integration.
+
+### LanDock — Building a practical cross-device workflow
+
+LanDock began with a recurring problem: transferring text, files, and control between a Windows PC and an iPhone without relying on external cloud services.
+
+The project grew into a local desktop hub and mobile web application with clipboard tools, file transfer, live keyboard input, connection recovery, native desktop notifications, and installable PWA behavior.
+
+### Nascent — Making neural-network training visible
+
+Neural-network demonstrations often hide training behind a progress bar or present only pretrained results.
+
+Nascent instead exposes the process. Users can create a handwriting dataset, start with random model weights, step through training epochs, inspect neuron receptive fields, adjust hyperparameters, and observe activations and backpropagation as the model learns.
+
+---
+
+## Core Capabilities
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>Desktop Engineering</h3>
+      <p>
+        Tauri, Rust, Windows integration, filesystem workflows, background processes,
+        native notifications, installers, and application updates.
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Web Applications</h3>
+      <p>
+        React, TypeScript, JavaScript, Vite, progressive web applications,
+        responsive interfaces, Canvas, and browser-based tooling.
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Media Systems</h3>
+      <p>
+        Jellyfin, Android TV, Fire TV, Media3, personal libraries,
+        playback workflows, video processing, and home-server infrastructure.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>Local Infrastructure</h3>
+      <p>
+        Local networking, device discovery, file transfer, rclone,
+        SQLite, cloud-mounted storage, and offline-capable workflows.
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Interactive Computing</h3>
+      <p>
+        WebGL, GLSL, Canvas rendering, TensorFlow.js,
+        simulations, machine-learning visualization, and real-time interfaces.
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Delivery and Automation</h3>
+      <p>
+        GitHub Actions, release pipelines, versioning, packaging,
+        GitHub Pages, Azure deployment, and repository automation.
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Technologies
 
 <p>
   <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
@@ -247,89 +332,96 @@ Relevant projects:
   <img src="https://img.shields.io/badge/GLSL-5586A4?style=flat-square&logo=opengl&logoColor=white" alt="GLSL" />
 </p>
 
-### Frameworks and Platforms
-
 <p>
   <img src="https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white" alt="Tauri" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
   <img src="https://img.shields.io/badge/Android%20TV-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android TV" />
-  <img src="https://img.shields.io/badge/Media3-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Media3" />
+  <img src="https://img.shields.io/badge/TensorFlow.js-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow.js" />
   <img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white" alt="WebGL" />
-  <img src="https://img.shields.io/badge/MapLibre%20GL-396CB2?style=flat-square&logo=maplibre&logoColor=white" alt="MapLibre GL" />
   <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
 </p>
 
-### Tools and Infrastructure
-
 <p>
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/rclone-3F79AD?style=flat-square&logo=icloud&logoColor=white" alt="rclone" />
   <img src="https://img.shields.io/badge/Jellyfin-00A4DC?style=flat-square&logo=jellyfin&logoColor=white" alt="Jellyfin" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" />
 </p>
 
 ---
 
-## Selected Work
+## Additional Work
 
-### ITHACON 49 Scavenger Hunt Web App (closed-source for now)
+### ITHACON 49 Scavenger Hunt Platform
 
-I built and deployed a full-stack convention scavenger hunt platform for ITHACON 49, including authentication, ticket imports, QR clue scanning, player state, admin tools, and a live leaderboard.
+I built and deployed a full-stack convention scavenger-hunt platform for ITHACON 49.
 
-Core areas:
+The system included:
 
-- Flask backend
-- React and Vite frontend
-- PostgreSQL database
-- Azure App Service deployment
-- QR scanning
-- Admin ticket management
-- Game state and scoring logic
+* Authentication and ticket imports
+* QR-based clue scanning
+* Player progress and scoring
+* Administrative tools
+* A live leaderboard
+* React and Vite frontend
+* Flask backend
+* PostgreSQL database
+* Azure App Service deployment
 
-### City Sketch
+### Depth Spatial — 2D-to-3D and Spatial Video
 
-I built [City Sketch](https://github.com/sudoaanish/city-sketch), a browser-based city roadmap art generator that turns real road networks and geographic features into minimal roadmap artwork.
+Through [Depth Spatial](https://www.youtube.com/@DepthSpatial), I explore 2D-to-3D conversion, spatial-video presentation, depth reconstruction, and immersive media workflows for stereoscopic and VR viewing.
 
-It uses MapLibre GL, OpenFreeMap vector tiles, React, Vite, and SVG-first export to produce clean map-art compositions directly in the browser. The project started from a personal need for road-line sketches, then became a small public creative tool with editable labels, style presets, layer controls, SVG export, and high-resolution PNG export.
+This work combines GPU-assisted processing, video encoding, depth-model experimentation, and platform-specific delivery. It also complements my broader work with home media libraries, Jellyfin, cloud storage, and projects such as StrataFuse and PAKFLIX.
 
-Live demo: [sudoaanish.github.io/city-sketch](https://sudoaanish.github.io/city-sketch/)
+<p>
+  <a href="https://www.youtube.com/@DepthSpatial">
+    <img src="https://img.shields.io/badge/Watch%20Depth%20Spatial-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="Watch Depth Spatial" />
+  </a>
+</p>
 
-### Media and 3D Video Workflows
+### Novels and Creative Work
 
-I work with video processing, home media libraries, Jellyfin organization, cloud media storage, and 2D-to-3D/VR conversion workflows. This has directly influenced projects like StrataFuse and PAKFLIX.
+Alongside software engineering, I write long-form fiction and develop creative systems that connect storytelling, worldbuilding, digital libraries, visualization, and media production.
 
-### Creative Technology
+My novels, worldbuilding, media appearances, and other creative work are collected in my [creative portfolio](https://share.google/mb33F1SFNuFLQPUbO).
 
-I am also developing long-form fiction and creative software systems that connect storytelling, worldbuilding, writing, and media production.
+<p>
+  <a href="https://share.google/mb33F1SFNuFLQPUbO">
+    <img src="https://img.shields.io/badge/Explore%20Creative%20Work-4285F4?style=flat-square&logo=google-chrome&logoColor=white" alt="Explore Novels and Creative Work" />
+  </a>
+</p>
 
 ---
 
-## What I Like Building
+## How I Approach Projects
 
-I usually gravitate toward projects with one or more of these traits:
+I tend to build software that:
 
-- They solve a workflow problem I actually have.
-- They give users more local control over their data or devices.
-- They turn a technical command-line workflow into a usable product.
-- They connect media, storytelling, and software.
-- They involve simulation, visualization, or emergent systems.
-- They can become a real tool, not just a demo.
+* Solves a problem I genuinely encounter
+* Gives users more control over their files and devices
+* Turns difficult technical workflows into approachable products
+* Works locally or remains useful without constant cloud dependence
+* Makes complex systems visible and interactive
+* Can grow beyond a demonstration into a durable tool
 
 ---
 
 ## Contact
 
-- Website: [aanishfarrukh.com](http://aanishfarrukh.com/)
-- GitHub: [github.com/sudoaanish](https://github.com/sudoaanish)
-- LinkedIn: [Aanish Farrukh](https://www.linkedin.com/in/aanishfarrukh/)
+* **Portfolio:** [aanishfarrukh.com](http://aanishfarrukh.com)
+* **GitHub:** [github.com/sudoaanish](https://github.com/sudoaanish)
+* **LinkedIn:** [Aanish Farrukh](https://www.linkedin.com/in/aanishfarrukh/)
+* **Depth Spatial:** [YouTube channel](https://www.youtube.com/@DepthSpatial)
+* **Novels and creative work:** [Creative portfolio](https://share.google/mb33F1SFNuFLQPUbO)
 
 ---
 
 <div align="center">
 
-### Building tools for local-first workflows, media systems, developer automation, creative interfaces, and simulations.
+### Building practical software for local-first workflows, personal media, interactive computing, and developer productivity.
 
 </div>
